@@ -1,0 +1,209 @@
+{"Season": {
+            "id": "",
+            "League": "",
+            "Standing": {
+                            "Team": [
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "1",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""     
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "2",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "3",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "4",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "5",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "6",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "7",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "8",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "9",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "10",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "11",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "12",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "13",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "14",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "15",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "16",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "17",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "18",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "",
+                                            "Place" : "19",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        },
+                                        {
+                                            "Name" :  "20",
+                                            "Place" : "",                                        
+                                            "Home_Wins": "",
+                                            "Home_Losses": "",
+                                            "Home_Draws": "",
+                                            "Away_Wins": "",
+                                            "Away_Losses": "",
+                                            "Away_Draws": ""   
+                                        }
+                                    ]   
+                        }
+            }  
+}
